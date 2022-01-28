@@ -64,7 +64,7 @@ body {
 .logo__strip {
   position: absolute;
   bottom: 4px;
-  right: -7px;
+  right: -9px;
   width: 57px;
   height: 5px;
   background: rgba(255, 255, 255, 0.5);
@@ -178,6 +178,11 @@ body {
   color: #f50a58;
 }
 
+.button--more_products {
+  display: flex;
+  justify-content: center;
+}
+
 .button--color {
   background-color: #db7093;
 }
@@ -227,9 +232,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 17px;
 }
 
 .footer_content__copy {
+  margin: 0;
   font-size: 14px;
   line-height: 32px;
   color: #db7093;
