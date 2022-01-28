@@ -226,6 +226,7 @@ body {
 .footer_content {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .footer_content__copy {
@@ -243,6 +244,10 @@ body {
 }
 
 .logo__strip--footer {
-  bottom: 24px;
   background: rgba(219, 112, 147, 0.5);
+}
+
+.footer__button {
+  display: flex;
+  justify-content: center;
 }
