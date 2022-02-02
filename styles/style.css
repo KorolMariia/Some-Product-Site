@@ -18,7 +18,7 @@ body {
   background: #db7093;
 }
 
-.header__content {
+.header_content {
   display: flex;
   justify-content: space-between;
 }
@@ -71,13 +71,13 @@ body {
   border-radius: 8px;
 }
 
-.header__action {
+.header_action {
   display: flex;
   gap: 16px;
   align-items: center;
 }
 
-.header_search {
+.header_action__search {
   width: 210px;
   height: 34px;
   background-color: transparent;
@@ -200,6 +200,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.form__subtitle {
+  margin: 0 0 12px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #4a4a4a;
 }
 
 .form__input {
