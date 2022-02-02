@@ -149,7 +149,7 @@ body {
   text-align: right;
 }
 
-.card__desc__subtitle {
+.card__subtitle {
   margin: 0 0 12px;
   font-weight: 500;
   font-size: 24px;
@@ -157,7 +157,7 @@ body {
   color: #4a4a4a;
 }
 
-.card__desc__text {
+.card__text {
   margin: 0 0 12px;
   font-weight: 500;
   font-size: 16px;
@@ -165,7 +165,7 @@ body {
   color: #717171;
 }
 
-.card__desc__link {
+.card__link {
   margin-left: 14px;
   font-size: 16px;
   line-height: 32px;
@@ -173,7 +173,7 @@ body {
   color: #db7093;
 }
 
-.card__desc__link:hover {
+.card__link:hover {
   text-decoration: underline;
   color: #f50a58;
 }
