@@ -2,4 +2,7 @@
 
 [Demo](https://korolmariia.github.io/Some-Product-Site/)
 
-HTML, CSS, BEM methodology
+I used:
+* HTML
+* CSS
+* BEM methodology
