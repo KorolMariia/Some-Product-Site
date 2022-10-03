@@ -1,5 +1,5 @@
 # Some-Product-Site
 
-https://korolmariia.github.io/Some-Product-Site/ - Demo
+[Demo](https://korolmariia.github.io/Some-Product-Site/)
 
 HTML, CSS, BEM methodology
